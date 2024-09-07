@@ -9,11 +9,27 @@ Having started my tech journey in computer science, I switched to something I fo
 
 ## Tools
 
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/-Tines-6D3F8C?&style=for-the-badge&logo=tines&logoColor=white" />
+
+
+
+
 ## Certifications
 
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://github.com/user-attachments/assets/b75811e3-77a4-488f-a476-b061ccaca657" width="150" height="150"/>
 
-<img src="https://img.shields.io/badge/FIMA%20NIMS-0072CE?style=flat&logo=none&logoColor=white&labelColor=0072CE" alt="FIMA NIMS" /> <img src="https://img.shields.io/badge/ICS%2D100-4CAF50?style=flat&logo=none&logoColor=white&labelColor=4CAF50" alt="ICS-100" />
+<img width="150" height="150" src="https://github.com/user-attachments/assets/facd9208-cd1a-49bf-961c-698fdfcdedaa" />
+
+Working On:
+
+<img width="150" height="140" src="https://github.com/user-attachments/assets/04d01c51-fd31-44fa-abf8-265b6b4c0ccf" />
+
+<img width="150" height="150" src="https://github.com/user-attachments/assets/2a894f8f-2cdc-4c3c-9b57-d193d5decd4d" />
+
+
+
+
+
 
 ## Projects
 
