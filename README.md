@@ -29,7 +29,6 @@ Working On:
 
 <img width="150" height="140" src="https://github.com/user-attachments/assets/04d01c51-fd31-44fa-abf8-265b6b4c0ccf" />
 
-<img width="150" height="150" src="https://github.com/user-attachments/assets/2a894f8f-2cdc-4c3c-9b57-d193d5decd4d" />
 
 
 
