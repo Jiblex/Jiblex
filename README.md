@@ -36,9 +36,7 @@ Having started my tech journey in computer science, I switched to something I fo
 
 <img width="150" height="150" src="https://github.com/user-attachments/assets/facd9208-cd1a-49bf-961c-698fdfcdedaa" />
 
-Working On:
 
-<img width="150" height="140" src="https://github.com/user-attachments/assets/04d01c51-fd31-44fa-abf8-265b6b4c0ccf" />
 
 
 
