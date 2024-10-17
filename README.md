@@ -3,11 +3,11 @@
 <a href="https://tryhackme.com/p/Jib332"> <img src="https://img.shields.io/badge/-TryHackMe-000000?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 
-I'm a recent cybersecurity graduate with a profound interest in technology and a dedication to solving complex problems. Lover of long (and strong) passwords and a security enthusiast. 
+I'm a recent cybersecurity graduate and professional with a profound interest in technology and a dedication to solving complex problems. Lover of long (and strong) passwords and a security enthusiast. 
 
 ## Objective
 
-Having started my tech journey in computer science, I switched to something I found cool since I was a child and found a passion for cybersecurity. I am now eager to join this field and become a professional, specifically aiming for roles such as Security Analyst or SOC Tier 1 analyst. 
+Having started my tech journey in computer science, I switched to something I found cool since I was a child and found a passion for cybersecurity. I am eager to continue learning about the field both through my professional experience and free time projects.
 
 ## Tools
 
