@@ -3,7 +3,7 @@
 <a href="https://tryhackme.com/p/Jib332"> <img src="https://img.shields.io/badge/-TryHackMe-000000?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 
-I'm a recent cybersecurity graduate and professional with a profound interest in technology and a dedication to solving complex problems. Lover of long (and strong) passwords and a security enthusiast. 
+I'm a cybersecurity graduate and professional with a profound interest in technology and a dedication to solving complex problems. Lover of long (and strong) passwords and a security enthusiast. 
 
 ## Objective
 
